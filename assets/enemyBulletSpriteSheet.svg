@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="20"
+   id="svg4094"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="enemyBulletSpriteSheet.svg"
+   inkscape:export-filename="/home/kobra/work/mygames/www/assets/enemyBullets.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4096">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3149"
+       id="linearGradient4054"
+       gradientUnits="userSpaceOnUse"
+       x1="-91.886902"
+       y1="108.76977"
+       x2="-85.806046"
+       y2="108.76977" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3149">
+      <stop
+         style="stop-color:#99ff55;stop-opacity:1"
+         offset="0"
+         id="stop3151" />
+      <stop
+         style="stop-color:#112b00;stop-opacity:1"
+         offset="1"
+         id="stop3153" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3149-4"
+       id="linearGradient5452"
+       gradientUnits="userSpaceOnUse"
+       x1="17.606058"
+       y1="113.91585"
+       x2="38.988873"
+       y2="131.70491" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3149-4">
+      <stop
+         style="stop-color:#99ff55;stop-opacity:1"
+         offset="0"
+         id="stop3151-8" />
+      <stop
+         style="stop-color:#112b00;stop-opacity:1"
+         offset="1"
+         id="stop3153-2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3149-4"
+       id="linearGradient5113"
+       x1="-42.52853"
+       y1="1072.5054"
+       x2="-42.52853"
+       y2="1072.5054"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3149-4"
+       id="radialGradient5119"
+       cx="16.306906"
+       cy="104.1858"
+       fx="16.306906"
+       fy="104.1858"
+       r="23.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0406399,0.9016072,-0.65245143,0.75653465,66.747438,16.446268)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3149-4"
+       id="radialGradient5139"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0406399,0.9016072,-0.65245143,0.75653465,66.747438,16.446268)"
+       cx="16.306906"
+       cy="104.1858"
+       fx="16.306906"
+       fy="104.1858"
+       r="23.5" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3149-4"
+       id="linearGradient5141"
+       gradientUnits="userSpaceOnUse"
+       x1="-42.52853"
+       y1="1072.5054"
+       x2="-42.52853"
+       y2="1072.5054" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="14.466853"
+     inkscape:cy="38.044125"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="978"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4125"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="20px"
+       spacingy="20px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4099">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1032.3622)">
+    <path
+       sodipodi:type="star"
+       style="fill:url(#linearGradient4054);fill-opacity:1;stroke:#222b00;stroke-width:0.37819421;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path3995"
+       sodipodi:sides="8"
+       sodipodi:cx="-88.84375"
+       sodipodi:cy="108.78125"
+       sodipodi:r1="2.2980382"
+       sodipodi:r2="3.0477962"
+       sodipodi:arg1="0.81702883"
+       sodipodi:arg2="1.2097279"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -87.270994,110.45679 -0.496049,1.17573 -1.149383,-0.55438 -1.182132,0.48061 -0.420728,-1.20474 -1.175738,-0.49605 0.554385,-1.14939 -0.480613,-1.18213 1.204746,-0.42073 0.496049,-1.17573 1.149383,0.55438 1.182132,-0.48061 0.420728,1.20474 1.175738,0.49605 -0.554385,1.14939 0.480613,1.18213 z"
+       transform="matrix(2.5853432,0.98374835,-0.98089074,2.6003457,348.0875,821.23158)"
+       inkscape:transform-center-x="-0.034695119"
+       inkscape:transform-center-y="0.11132038" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/zen/Desktop/mygames/assets/enemy-bullet.png"
+       sodipodi:type="arc"
+       style="fill:#ccff00;fill-opacity:1;stroke:none;display:inline"
+       id="path4002"
+       sodipodi:cx="23"
+       sodipodi:cy="115"
+       sodipodi:rx="23"
+       sodipodi:ry="23"
+       d="m 46,115 a 23,23 0 1 1 -46,0 23,23 0 1 1 46,0 z"
+       transform="matrix(-0.0205255,0.04522414,-0.04502795,-0.02061493,17.298847,1020.3107)" />
+    <path
+       transform="matrix(-0.0205255,0.04522414,-0.04502795,-0.02061493,15.450672,1016.7842)"
+       d="m 46,115 a 23,23 0 1 1 -46,0 23,23 0 1 1 46,0 z"
+       sodipodi:ry="23"
+       sodipodi:rx="23"
+       sodipodi:cy="115"
+       sodipodi:cx="23"
+       id="path4004"
+       style="fill:#ccff00;fill-opacity:1;stroke:none;display:inline"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/zen/Desktop/mygames/assets/enemy-bullet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5133"
+       transform="matrix(1.0295511,0,0,1.0565001,-1.2545071,-57.382888)"
+       inkscape:export-filename="/home/kobra/work/mygames/www/assets/enemyBullets.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
+         id="g5125"
+         transform="matrix(1.3645668,0,0,1.3297597,106.11945,-422.33187)">
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           id="path5127"
+           sodipodi:cx="23"
+           sodipodi:cy="115"
+           sodipodi:rx="23"
+           sodipodi:ry="23"
+           d="M 46,115 C 46,127.70255 35.702549,138 23,138 10.297451,138 0,127.70255 0,115 0,102.29745 10.297451,92 23,92 c 12.702549,0 23,10.29745 23,23 z"
+           transform="matrix(0.17021277,0,0,0.17021277,-46.657551,1057.8761)"
+           inkscape:export-filename="/home/zen/Desktop/mygames/assets/enemy-bullet.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+      <g
+         transform="matrix(1.2528141,0,0,1.2499363,101.34284,-336.26364)"
+         id="g5434"
+         style="fill:url(#linearGradient5141);fill-opacity:1;stroke:none;display:inline">
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/zen/Desktop/mygames/assets/enemy-bullet.png"
+           transform="matrix(0.17021277,0,0,0.17021277,-46.657551,1057.8761)"
+           d="M 46,115 C 46,127.70255 35.702549,138 23,138 10.297451,138 0,127.70255 0,115 0,102.29745 10.297451,92 23,92 c 12.702549,0 23,10.29745 23,23 z"
+           sodipodi:ry="23"
+           sodipodi:rx="23"
+           sodipodi:cy="115"
+           sodipodi:cx="23"
+           id="path5436"
+           style="fill:url(#radialGradient5139);fill-opacity:1;stroke:none"
+           sodipodi:type="arc" />
+      </g>
+    </g>
+  </g>
+</svg>

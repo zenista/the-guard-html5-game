@@ -1,0 +1,14 @@
+{
+    "name": "The Guard",
+    "version": "1.0.0",
+    "author": "zenista",
+    "main": "www/index.html",
+    "path": "",
+    "artworks": {},
+    "devices": [
+        "desktop",
+        "tablet",
+        "mobile"
+    ],
+    "parentalControl": false
+}
